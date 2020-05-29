@@ -1,0 +1,7 @@
+Virtual
+-Override etmek icin kullanılır ve sadece fonksiyon isminde kullanilabilir
+
+Abstract
+-Override etmek icin kullanılır, hem class isminde hem de fonksiyon isminde kullanılır
+-fonksiyon basında belirtilirse, override etmek icindir ve base class'da fonksiyon'u implement etmeye gerek kalmaz
+-Class basında belirtilirse, class'in kendi instance'i olmaz
