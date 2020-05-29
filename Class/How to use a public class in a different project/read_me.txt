@@ -1,0 +1,1 @@
+-It demonstrates the process of using a class in Constructors assembly, which is in ConsoleApp1
