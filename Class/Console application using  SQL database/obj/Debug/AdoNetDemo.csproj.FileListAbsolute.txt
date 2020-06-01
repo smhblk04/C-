@@ -1,0 +1,10 @@
+C:\Users\semihbalki\source\repos\Learning_csharp\AdoNetDemo\bin\Debug\AdoNetDemo.exe.config
+C:\Users\semihbalki\source\repos\Learning_csharp\AdoNetDemo\bin\Debug\AdoNetDemo.exe
+C:\Users\semihbalki\source\repos\Learning_csharp\AdoNetDemo\bin\Debug\AdoNetDemo.pdb
+C:\Users\semihbalki\source\repos\Learning_csharp\AdoNetDemo\obj\Debug\AdoNetDemo.csprojAssemblyReference.cache
+C:\Users\semihbalki\source\repos\Learning_csharp\AdoNetDemo\obj\Debug\AdoNetDemo.Form1.resources
+C:\Users\semihbalki\source\repos\Learning_csharp\AdoNetDemo\obj\Debug\AdoNetDemo.Properties.Resources.resources
+C:\Users\semihbalki\source\repos\Learning_csharp\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.GenerateResource.cache
+C:\Users\semihbalki\source\repos\Learning_csharp\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.CoreCompileInputs.cache
+C:\Users\semihbalki\source\repos\Learning_csharp\AdoNetDemo\obj\Debug\AdoNetDemo.exe
+C:\Users\semihbalki\source\repos\Learning_csharp\AdoNetDemo\obj\Debug\AdoNetDemo.pdb
